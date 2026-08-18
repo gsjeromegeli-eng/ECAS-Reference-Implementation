@@ -33,7 +33,7 @@ identifier, and Schnorr ZKP proof components.
 
 ### Reference Source Code
 
-`source_code/`
+`relevant_source_code/`
 
 Contains selected source-code components demonstrating the
 cryptographic and verification mechanisms used in the proposed
